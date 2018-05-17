@@ -15,6 +15,8 @@ Full screen shot
 
 Responsive screen shot
 ![responsive](https://github.com/weekendchow/fend-Portfolio-Site/blob/master/images/responsive.png)
+![responsive2](https://github.com/weekendchow/fend-Portfolio-Site/blob/master/images/responsive2.png)
+
 
 
 ## Tools
