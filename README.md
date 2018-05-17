@@ -8,6 +8,14 @@ This responsive Portfolio-Site is simply created using HTML and CSS for Udacity 
 3. How to position those boxes and make them beautiful using CSS.
 4. How to conforming to a style guide which is an important constraint.
 
+## Screen Shot
+Full screen shot
+![topImage](https://github.com/weekendchow/fend-Portfolio-Site/blob/master/images/topImage.png)
+![projects](https://github.com/weekendchow/fend-Portfolio-Site/blob/master/images/projects.png)
+
+Responsive screen shot
+![responsive](https://github.com/weekendchow/fend-Portfolio-Site/blob/master/images/responsive.png)
+
 
 ## Tools
  - [Udacity HTML/CSS Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/)
